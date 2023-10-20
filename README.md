@@ -3,7 +3,7 @@
 
 ## Atualize os seus dados
 
-- Nome:
+- Nome: Caio Henrique Ferreira Pereira
 - Matrícula:
 - Curso:
 - Semestre/Ano correntes:
